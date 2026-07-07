@@ -2,7 +2,7 @@
 
 [![DOI](https://github.com/rabindraparajuli/JAE-Systematic_Review/blob/main/doi-badge-small.svg)](https://doi.org/10.1111/1365-2664.70485)
 
-This repository has data and R codes required to create **Figure 2 | Heatmaps of the proportion of studies achieving qualitative conservation success** of the following manuscript published in _Journal of Applied Ecology_. 
+This repository has data and R codes required to create **Figure 2 | Heatmaps of the proportion of studies achieving qualitative conservation success** of the paper published in _Journal of Applied Ecology_. 
 
 **Files description:**
 1. data.xlsx: Excel sheet with data
