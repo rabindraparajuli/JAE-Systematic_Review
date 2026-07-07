@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="52" viewBox="0 0 330 52" role="img" aria-label="DOI: 10.1111/1365-2664.70485">
+  <title>DOI: 10.1111/1365-2664.70485</title>
+  <defs>
+    <linearGradient id="leftGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2f6b48"/>
+      <stop offset="100%" stop-color="#1d4a30"/>
+    </linearGradient>
+    <linearGradient id="rightGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eef4ef"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9be8b8"/>
+      <stop offset="100%" stop-color="#5cbf82"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="1.8" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#softShadow)">
+    <!-- base rounded pill -->
+    <rect x="1" y="1" width="328" height="50" rx="25" fill="url(#rightGrad)" stroke="#cfdccf" stroke-width="1"/>
+
+    <!-- left dark section shaped as a pill on the left, straight edge on the right -->
+    <path d="M26,1 H120 V51 H26 A25,25 0 0 1 26,1 Z" fill="url(#leftGrad)"/>
+
+    <!-- decorative ring / "open access - linked identifier" motif -->
+    <circle cx="27" cy="26" r="14" fill="none" stroke="url(#ringGrad)" stroke-width="3"/>
+    <circle cx="27" cy="26" r="5.5" fill="url(#ringGrad)"/>
+    <path d="M27,15 A11,11 0 0 1 38,26" fill="none" stroke="#ffffff" stroke-width="1.3" stroke-linecap="round" opacity="0.55"/>
+
+    <!-- DOI wordmark -->
+    <text x="70" y="31" font-family="Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700" letter-spacing="1.5" fill="#ffffff" text-anchor="middle">DOI</text>
+
+    <!-- divider -->
+    <line x1="120" y1="10" x2="120" y2="42" stroke="#cfdccf" stroke-width="1"/>
+
+    <!-- DOI code -->
+    <text x="130" y="30.5" font-family="'Courier New', Courier, monospace" font-size="12.3" font-weight="600" fill="#1d4a30">10.1111/1365-2664.70485</text>
+  </g>
+</svg>
