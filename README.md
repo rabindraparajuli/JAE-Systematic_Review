@@ -9,5 +9,5 @@ This repository has data and R codes required to create **Figure 2 | Heatmaps of
 2. heatmap.R: R codes to summarize, tabulate, visualize and export the heatmap
 3. Plots (Heatmap_combined_legend.tif, Intervention_Taxa.tif, and Spatial_scales_Taxa.tif) generated using the data and code
 
-**Graphical Abstract**
+**Graphical Abstract:**
 ![Graphical Abstract](https://github.com/rabindraparajuli/JAE-Systematic_Review/blob/main/Applied_Ecol._Graphic__3300_x_1856_px_.jpg)
