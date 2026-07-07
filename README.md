@@ -1,6 +1,9 @@
-This repository has data and R codes required to create the heatmap (Figure 2) of the global systematic review on biodiversity impacts of floodplain hydrological reconnection. 
+This repository has data and R codes required to create **Figure 2 | Heatmaps of the proportion of studies achieving qualitative conservation success** of the following manuscript published in _Journal of Applied Ecology_. 
+
+**Parajuli _et al._, 2026 _A global systematic review of the effects of hydromorphological floodplain restoration on biodiversity_. https://doi.org/10.1111/1365-2664.70485**
 
 **Files description:**
 1. data.xlsx: Excel sheet with data
 2. heatmap.R: R codes to summarize, tabulate, visualize and export the heatmap
 3. Plots (Heatmap_combined_legend.tif, Intervention_Taxa.tif, and Spatial_scales_Taxa.tif) generated using the data and code
+
