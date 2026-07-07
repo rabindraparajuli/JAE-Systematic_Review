@@ -11,3 +11,5 @@ This repository has data and R codes required to create **Figure 2 | Heatmaps of
 
 **Graphical Abstract:**
 [![Graphical Abstract](https://github.com/rabindraparajuli/JAE-Systematic_Review/blob/main/Applied_Ecol._Graphic__3300_x_1856_px_.jpg)](https://doi.org/10.1111/1365-2664.70485)  
+
+**Geographic locations of the studies included in this study**
